@@ -117,7 +117,7 @@ h2 {
 }
 
 .side-info dd {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 20px;
     padding-top: 8px;
 }
@@ -174,7 +174,7 @@ h2 {
 }
 
 .main a {
-    color: $secondColor;
+    color: #616161;
 }
 
 .main-info > li {
@@ -238,7 +238,7 @@ h3 {
 h4 {
     line-height: 30px;
     font-size: 18px;
-    color: #000;
+    color: #01579B;
     position: relative;
     bottom: 3px;
 
@@ -262,7 +262,7 @@ h5 {
 h4 a,
 h5 a {
     font-size: 12px;
-    border: 1px solid #{$secondColor};
+    border: 1px solid #616161;
     padding: 1px 3px;
     border-radius: 5px;
     margin-left: 7px;
@@ -285,6 +285,7 @@ h5 a {
 
 .edu span{
     font-size: 18px;
+    color: #01579B;
 }
 
 .edu span strong{
@@ -298,7 +299,6 @@ h5 a {
     color: #616161;
     line-height: 25px;
     margin-bottom: 5px;
-    margin-left: 158px;
     margin-top: 10px;
 }
 
@@ -363,7 +363,7 @@ footer p {
 }
 
 footer a {
-    color: $secondColor;
+    color: #616161;
 }
 
 .throb {
