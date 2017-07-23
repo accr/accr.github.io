@@ -1,24 +1,24 @@
 {
   "name": "resume",
   "version": "1.0.0",
-  "description": "Wow, such a beautiful resume",
+  "description": "It's a resume.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DIYgod/Resume.git"
+    "url": "git+https://github.com/accr/accr.github.io.git"
   },
   "keywords": [
     "resume"
   ],
-  "author": "DIYgod",
+  "author": "Accreative",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DIYgod/Resume/issues"
+    "url": "https://github.com/accr/accr.github.io/issues"
   },
-  "homepage": "https://github.com/DIYgod/Resume#readme",
+  "homepage": "https://github.com/accr/accr.github.io#readme",
   "devDependencies": {
     "browser-sync": "^2.10.0",
     "gulp": "^3.9.0",
